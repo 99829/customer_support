@@ -1,0 +1,102 @@
+{
+  "ORD12345": {
+    "customer_email": "rahul.sharma@example.com",
+    "product": "Wireless Headphones",
+    "status": "Shipped",
+    "order_date": "2026-09-15",
+    "expected_delivery": "2026-09-22",
+    "payment_status": "Paid",
+    "amount": 1999,
+    "payment_method": "UPI"
+  },
+  "ORD12346": {
+    "customer_email": "priya.patel@example.com",
+    "product": "Smartphone Case",
+    "status": "Payment Failed",
+    "order_date": "2026-09-20",
+    "expected_delivery": null,
+    "payment_status": "Failed",
+    "amount": 499,
+    "payment_method": "Credit Card"
+  },
+  "ORD12347": {
+    "customer_email": "amit.desai@example.com",
+    "product": "Running Shoes",
+    "status": "Delivered",
+    "order_date": "2026-09-10",
+    "expected_delivery": "2026-09-16",
+    "payment_status": "Paid",
+    "amount": 2499,
+    "payment_method": "Cash on Delivery"
+  },
+  "ORD12348": {
+    "customer_email": "sneha.joshi@example.com",
+    "product": "Laptop Bag",
+    "status": "Out for Delivery",
+    "order_date": "2026-09-24",
+    "expected_delivery": "2026-09-27",
+    "payment_status": "Paid",
+    "amount": 899,
+    "payment_method": "Debit Card"
+  },
+  "ORD12349": {
+    "customer_email": "vikram.mehta@example.com",
+    "product": "Bluetooth Speaker",
+    "status": "Cancelled",
+    "order_date": "2026-09-18",
+    "expected_delivery": null,
+    "payment_status": "Refunded",
+    "amount": 1499,
+    "payment_method": "UPI"
+  },
+  "ORD12350": {
+    "customer_email": "neha.iyer@example.com",
+    "product": "Smart Watch",
+    "status": "Processing",
+    "order_date": "2026-09-26",
+    "expected_delivery": "2026-10-02",
+    "payment_status": "Paid",
+    "amount": 3499,
+    "payment_method": "UPI"
+  },
+  "ORD12351": {
+    "customer_email": "arjun.rao@example.com",
+    "product": "Gaming Mouse",
+    "status": "Delivered",
+    "order_date": "2026-09-12",
+    "expected_delivery": "2026-09-17",
+    "payment_status": "Paid",
+    "amount": 1299,
+    "payment_method": "Net Banking"
+  },
+  "ORD12352": {
+    "customer_email": "kavya.nair@example.com",
+    "product": "Yoga Mat",
+    "status": "Return Initiated",
+    "order_date": "2026-09-08",
+    "expected_delivery": "2026-09-13",
+    "payment_status": "Refund Pending",
+    "amount": 799,
+    "payment_method": "Credit Card"
+  },
+  "ORD12353": {
+    "customer_email": "rohan.gupta@example.com",
+    "product": "Electric Kettle",
+    "status": "Shipped",
+    "order_date": "2026-09-23",
+    "expected_delivery": "2026-09-29",
+    "payment_status": "Paid",
+    "amount": 1199,
+    "payment_method": "Cash on Delivery"
+  },
+  "ORD12354": {
+    "customer_email": "isha.bhatt@example.com",
+    "product": "Backpack",
+    "status": "Delivered",
+    "order_date": "2026-09-05",
+    "expected_delivery": "2026-09-10",
+    "payment_status": "Paid",
+    "amount": 1899,
+    "payment_method": "UPI"
+  }
+}

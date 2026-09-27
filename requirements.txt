@@ -1,0 +1,13 @@
+langchain==0.3.7
+langchain-community==0.3.5
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.8
+langchain-groq==0.2.1
+langchain-core==0.3.86
+langgraph==0.2.60
+faiss-cpu
+sentence-transformers
+pydantic
+python-dotenv
+streamlit
+langsmith
