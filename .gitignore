@@ -108,3 +108,4 @@ huggingface_cache/
 # *.json
 # *.xlsx
 # *.parquet
+kb_vector_store/
